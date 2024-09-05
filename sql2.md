@@ -10,7 +10,7 @@ https://www.sourcecodester.com/php/15689/food-ordering-management-system-php-and
 /foms/routers/cancel-order.php
 
 ## Author
-Ma Qiutong, Li Shudong, Lin Zihao
+TanLong
 
 ## Description:
 Food Ordering Management System 1.0 is vulnerable to an unrestricted SQL injection attack in /foms/routers/cancel-order.php with the attack parameter id. An attacker can exploit this vulnerability to directly obtain sensitive server information. A malicious attacker could exploit this vulnerability to obtain sensitive information in the server database.
